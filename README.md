@@ -1,5 +1,5 @@
-An independent designer. I build ridiculously simple, time-saving workflows that are good for the planet.
+An independent designer. I enjoy building ridiculously simple tools for the Internet.
 
-[Work](https://read.cv/calebjolliffe)&nbsp;
+[RSS](https://calebjolliffe.co/rss)&nbsp;
 [Mail](mailto:calebjolliffe@proton.me)&nbsp;
-[X](https://twitter.com/calebjolliffe)
+[X](https://x.com/calebjolliffe)
