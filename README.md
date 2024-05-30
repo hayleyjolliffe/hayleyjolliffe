@@ -1,6 +1,4 @@
-An independent designer building ridiculously simple tools for the Internet.
+An independent designer and professional grass-toucher building ridiculously simple tools for the Internet.
 
-[RSS](https://calebjolliffe.co/rss)&nbsp;
-[Mail](mailto:calebjolliffe@proton.me)&nbsp;
-[X](https://x.com/calebjolliffe)&nbsp;
-[Ko-Fi](https://ko-fi.com/calebjolliffe)
+[Mail](mailto:hayleyjolliffe@proton.me)&nbsp;
+[X](https://x.com/hayleyjolliffe)&nbsp;
