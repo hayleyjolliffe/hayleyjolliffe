@@ -1,4 +1,4 @@
-An independent designer and professional grass-toucher building ridiculously simple tools for the Internet.
+independent designer building ridiculously simple tools for the internet.
+actively seeking fulltime opportunities.
 
-[Mail](mailto:hayleyjolliffe@proton.me)&nbsp;
-[X](https://x.com/hayleyjolliffe)&nbsp;
+[mail](mailto:hayleyjolliffe@proton.me)&nbsp;
