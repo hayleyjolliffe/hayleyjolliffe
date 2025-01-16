@@ -1,4 +1,4 @@
-independent designer building ridiculously simple tools for the internet.
-<br>actively seeking fulltime opportunities.
+Independent designer building ridiculously simple tools for the internet.
+<br>Actively seeking fulltime opportunities.
 
-[mail](mailto:hayleyjolliffe@proton.me)&nbsp;
+[Now](https://hayleyjolliffe.co/now)&nbsp;[Mail](mailto:hayleyjolliffe@proton.me)&nbsp;[RSS](https://hayleyjolliffe.co/rss)
