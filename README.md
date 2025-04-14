@@ -1,4 +1,4 @@
 Independent designer simplifying for the web.
-<br>Actively seeking fulltime opportunities.
+<br>Currently building PAYLOAD LABS.
 
-[Now](https://hayleyjolliffe.co/now)&emsp;[Mail](mailto:hayleyjolliffe@proton.me)&emsp;[RSS](https://hayleyjolliffe.co/feed)
+[Work](https://hayleyjolliffe.co)&emsp;[Mail](mailto:hayleyjolliffe@proton.me)&emsp;[X](https://x.com/hayleyjolliffe)
