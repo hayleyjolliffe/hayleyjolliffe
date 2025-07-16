@@ -1,5 +1,7 @@
-Designer and developer focused on building opinionated, purpose-first software that gets out of the way. My work lives at the intersection of systems thinking, digital minimalism, and early computing principles — inspired by Bell Labs, UNIX, and the idea that great tools are meant to be closed. I create products that strip away noise, respect attention, and serve a single clear function — from habit systems to launcher interfaces.
+Designer, developer, and firm believer in opinionated software that gets out of the way.
 
-Everything I build reflects a core belief: software should sharpen your intent, not scatter it.
+I thrive on systems thinking and use digital minimalism and early computing principles to create tools meant to be just that: tools.
+
+Your attention belongs to you, not your software.
 
 [Work](https://hayleyjolliffe.co)&emsp;[Mail](mailto:hayleyjolliffe@proton.me)&emsp;[Support](https://ko-fi.com/hayleyjolliffe)
