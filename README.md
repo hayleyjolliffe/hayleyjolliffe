@@ -4,4 +4,4 @@ I thrive on systems thinking and use digital minimalism and early computing prin
 
 Your attention belongs to you, not your software.
 
-[Work](https://hayleyjolliffe.co)&emsp;[Mail](mailto:hayleyjolliffe@proton.me)&emsp;[RSS](https://hayleyjolliffe.co/feed)&emsp;[Support](https://ko-fi.com/hayleyjolliffe)
+[Work](https://hayleyjolliffe.co)&emsp;[Mail](mailto:hayleyjolliffe@proton.me)&emsp;[RSS](https://hayleyjolliffe.co/rss)&emsp;[Support](https://ko-fi.com/hayleyjolliffe)
