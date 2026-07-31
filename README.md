@@ -1,6 +1,6 @@
-*Designer, programmer, researcher.* Thinking about and building systems to eliminate friction.<br>
-Interested in retrocomputing and reducing data fragmentation.
+Systems for thinking. Tools for doing.<br>
+Simplicity for everything.
 
-I work with startups to *[reduce headache](https://hayleyjolliffe.co/reduce-headache)* in their workflows.
+Available for projects.
 
-[Work](https://hayleyjolliffe.co)&emsp;[X](https://x.com/hayleyjolliffe)&emsp;[Mail](mailto:hayleyjolliffe@proton.me)
+[Work](https://hayleyjolliffe.co)&emsp;[Mail](mailto:hayley@salvus.studio)&emsp;[𝕏](https://x.com/hayleyjolliffe)
