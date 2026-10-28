@@ -1,6 +1,5 @@
-Systems for thinking. Tools for doing.<br>
-Simplicity for everything.
+Generalist designer building the systems behind good content and brand experiences. I love building tools, templates, and workflows that take the headache out of making work that repeats and scales. I even [write about it weekly](https://hayleyjolliffe.substack.com/?ref=hjgit).
 
-Available for projects.
+For projects, or just to chat, [come say hi](mailto:hayley@salvus.studio).
 
-[Work](https://hayleyjolliffe.co)&emsp;[Mail](mailto:hayley@salvus.studio)&emsp;[𝕏](https://x.com/hayleyjolliffe)
+[Literal](https://literal.club/hayleyjolliffe)&emsp;[X](https://x.com/hayleyjolliffe)
